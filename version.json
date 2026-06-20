@@ -5,9 +5,9 @@
     "notes": "Lapor gangguan (tiket) + notifikasi update."
   },
   "reseller": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://github.com/yandinovriandi/provisionx-apk/releases/latest/download/provisionx-reseller.apk",
-    "notes": "Atur digit/format/awalan kode voucher + notifikasi update."
+    "notes": "Nama usaha WiFi operator tampil di beranda (bukan ProvisionX)."
   },
   "operator": {
     "version": "1.0.1",
