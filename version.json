@@ -10,8 +10,8 @@
     "notes": "Layar login menampilkan nama & logo usaha WiFi operator Anda."
   },
   "operator": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "url": "https://github.com/yandinovriandi/provisionx-apk/releases/latest/download/provisionx-operator.apk",
-    "notes": "Status layanan & nama usaha di dasbor diperjelas."
+    "notes": "Daftar Tim tanpa reseller + Laba Rugi tahan gangguan jaringan."
   }
 }
