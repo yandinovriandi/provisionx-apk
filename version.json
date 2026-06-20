@@ -7,7 +7,7 @@
   "reseller": {
     "version": "1.0.1",
     "url": "https://github.com/yandinovriandi/provisionx-apk/releases/latest/download/provisionx-reseller.apk",
-    "notes": "Atur digit/format/awalan kode voucher + notifikasi update."
+    "notes": "Setelan digit/format kode voucher + notifikasi update."
   },
   "operator": {
     "version": "1.0.1",
