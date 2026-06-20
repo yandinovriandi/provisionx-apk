@@ -1,0 +1,17 @@
+{
+  "pelanggan": {
+    "version": "1.0.1",
+    "url": "https://github.com/yandinovriandi/provisionx-apk/releases/latest/download/provisionx-pelanggan.apk",
+    "notes": "Lapor gangguan (tiket) + notifikasi update."
+  },
+  "reseller": {
+    "version": "1.0.1",
+    "url": "https://github.com/yandinovriandi/provisionx-apk/releases/latest/download/provisionx-reseller.apk",
+    "notes": "Atur digit/format/awalan kode voucher + notifikasi update."
+  },
+  "operator": {
+    "version": "1.0.1",
+    "url": "https://github.com/yandinovriandi/provisionx-apk/releases/latest/download/provisionx-operator.apk",
+    "notes": "Notifikasi update versi baru."
+  }
+}
