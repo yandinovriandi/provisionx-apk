@@ -1,8 +1,8 @@
 {
   "pelanggan": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://github.com/yandinovriandi/provisionx-apk/releases/latest/download/provisionx-pelanggan.apk",
-    "notes": "Lapor gangguan (tiket) + notifikasi update."
+    "notes": "Dukungan paket PRABAYAR: lihat sisa masa aktif & tombol Perpanjang masa aktif (bayar online)."
   },
   "reseller": {
     "version": "1.0.3",
